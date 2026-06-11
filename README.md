@@ -1,11 +1,10 @@
 ---
-lab:
-    title: 'Integrate an AI agent with Foundry IQ'
-    description: 'Use Azure AI Agent Service to develop an agent that uses Foundry IQ to search knowledge bases.'
-    level: 300
-    duration: 45
-    islab: true
-    status: 'released'
+title: 'Integrate an AI agent with Foundry IQ'
+description: 'Use Azure AI Agent Service to develop an agent that uses Foundry IQ to search knowledge bases.'
+level: 300
+duration: 45
+islab: true
+status: 'released'
 ---
 
 # Integrate an AI agent with Foundry IQ
