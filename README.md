@@ -31,7 +31,7 @@ Let's start by creating a Foundry project with the new Foundry experience.
 
 1. In a web browser, open the [Foundry portal](https://ai.azure.com) at `https://ai.azure.com` and sign in using your Azure credentials. Close any tips or quick start panes that are opened the first time you sign in.
 
-    > **Important**: Make sure the **New Foundry** toggle is *On* for this lab to use the updated user interface.
+
 
 1. Once you toggle to the **New Foundry**, you'll be asked to select a project. In the dropdown, select **Create a new project**.
 1. In the **Create a project** dialog, enter a valid name for your project (for example, *agent-iq-lab*).
