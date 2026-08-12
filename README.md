@@ -15,9 +15,9 @@ This exercise should take approximately **45** minutes to complete.
 
 > **Note**: Some of the technologies used in this exercise are in preview or in active development. You may experience some unexpected behavior, warnings, or errors.
 
-## Prerequisites
 
-Before starting this exercise, ensure you have:
+
+Before starting, ensure you have:
 
 - An [Azure subscription](https://azure.microsoft.com/free/) with permissions to create AI resources
 - [Visual Studio Code](https://code.visualstudio.com/) installed on your local machine
